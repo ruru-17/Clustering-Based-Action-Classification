@@ -9,7 +9,7 @@ It has 2 parts:
 
 The Non-competitve parts had several restrictions regarding allowed models and feature engineering, whereas in the Competitive part we had more freedom. Refer to Problem_Statement.pdf for complete problem statement.  
 
-See Code_NC.ipynb for code of Non-competitive part.
+See Code_NC.ipynb for code of Non-competitive part. This code is adapted from my code originally written in kaggle. Click [here](https://www.kaggle.com/code/rudranilnaskar/noncomp-action-classification) for the original kaggle notebook.
 
 See Comp_C.ipynb for code of Competitive part.
 
