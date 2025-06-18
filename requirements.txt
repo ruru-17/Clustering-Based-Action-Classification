@@ -1,0 +1,14 @@
+numpy
+pandas
+opencv-python
+torch
+torchvision
+pillow
+scikit-image
+tqdm
+scikit-learn
+matplotlib
+scipy
+ipython
+tensorflow==1.15
+dm-sonnet==1.36
