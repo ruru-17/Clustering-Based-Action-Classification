@@ -54,6 +54,8 @@ Open `CodeC.ipynb`. The notebook loads:
 
 and trains/evaluates models on the provided features.
 
+This code is adapted from my code originally written in kaggle. Click [here](https://www.kaggle.com/code/rudranilnaskar/noncomp-action-classification) for the original kaggle notebook.
+
 ## Results
 
 See `report.pdf` for quantitative results, comparisons, and discussion.
